@@ -1,0 +1,9 @@
+{
+  "name": "funniest-person",
+  "description": "Hype project",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-ftpush": "^0.3.3"
+  },
+  "dependencies": {}
+}
